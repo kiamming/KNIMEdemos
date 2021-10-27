@@ -1,0 +1,10 @@
+ID,AGE,INCOME,GENDER,MARITAL,NUMKIDS,NUMCARDS,HOWPAID,MORTGAGE,STORECAR,LOANS
+200000,45,60000,m,married  ,1,2,monthly,y,2,0
+200001,33,40200,f,married  ,1,1,monthly,y,1,0
+200002,50,100000,m,single,0,2,monthly,y,4,1
+200003,41,58787,m,married  ,2,2,monthly,y,1,0
+200004,42,59179,m,married  ,0,1,monthly,y,2,0
+200005,33,59201,f,married  ,1,2,monthly,n,2,0
+200006,27,59179,m,married  ,1,1,monthly,y,2,1
+200007,25,59179,m,married  ,0,1,monthly,n,2,1
+200008,40,55559,f,married  ,0,1,monthly,y,1,1
